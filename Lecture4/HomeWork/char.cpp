@@ -1,0 +1,26 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int n;
+    cout << "Enter the number: ";
+    cin >> n;
+    cout << "---------------------" <<endl;
+
+    //pattern for loop
+    char ch='A';
+
+    for (int i = 0; i < n;i++)
+    {
+        /* code */
+
+        for (int j = 1; j <= n; j++)
+        {
+            cout << ch << " " ;
+            ch++;
+        }
+        cout << endl;
+    }
+    cout << "---------------------";
+}
