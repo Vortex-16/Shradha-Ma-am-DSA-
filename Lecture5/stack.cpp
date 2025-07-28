@@ -34,5 +34,5 @@ int main(){
     sumN(a);
     fun();
     //cout << x ; // x doesn't exist after call of functions
-    return 0;
+    return 0; //Return is last nothing works after return;
 }
