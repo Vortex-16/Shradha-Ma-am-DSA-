@@ -33,5 +33,6 @@ int main(){
     cin >> a;
     sumN(a);
     fun();
+    //cout << x ; // x doesn't exist after call of functions
     return 0;
 }
