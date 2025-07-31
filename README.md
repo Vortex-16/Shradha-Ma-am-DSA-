@@ -56,12 +56,12 @@ DSA in C++ – Full Playlist
 🚀 Topics Covered
 No.	Topic	Status
 1	Basics & Patterns	✅ Done
-2	Arrays	✅ Done
-3	Strings	✅ Done
-4	Recursion & Backtracking	✅ Done
-5	Linked List	✅ Done
-6	Stacks and Queues	🔄 In Progress
-7	Trees	🔄 In Progress
+2	Arrays	🔄 In Progress
+3	Strings	🔄 In Progress
+4	Recursion & Backtracking	🔜 Coming Soon
+5	Linked List	🔜 Coming Soon
+6	Stacks and Queues	🔜 Coming Soon
+7	Trees	🔜 Coming Soon
 8	Graphs	🔜 Coming Soon
 9	Dynamic Programming	🔜 Coming Soon
 
