@@ -32,12 +32,12 @@ This repository is organized topic-wise, matching Shradha Didi’s playlist. Eac
 Copy
 Edit
 📁 Shradha-Ma-am-DSA
-├── 01_Basics
-├── 02_Arrays
-├── 03_Strings
-├── 04_Recursion
-├── 05_LinkedList
-├── 06_Stacks_Queues
+├── Lecture1
+├── Lecture2
+├── Lecture3
+├── Lecture4
+├── Lecture5
+├── Lecture6
 ├── 07_Trees
 ├── 08_Heaps
 ├── 09_Graphs
@@ -49,7 +49,7 @@ DSA in C++ – Full Playlist
 
 📘 Language: C++
 
-💡 Editor: VS Code / CodeStudio
+💡 Editor: VS Code 
 
 ✨ IDE: OnlineGDB, LeetCode IDE, GeeksforGeeks IDE
 
@@ -92,7 +92,7 @@ If you want to collaborate, suggest improvements, or just want to say hi:
 
 💻 GitHub: @vikashgupta16
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: [Click Me!!](https://vikash-dev-portfolio.vercel.app/)
 
 🧠 Let’s Ace DSA Together!
 “Consistency + Practice = Mastery” 🚀
