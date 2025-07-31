@@ -12,7 +12,7 @@ Hi, I'm Vikash Gupta 👨‍💻
 
 🧠 Passionate about DSA, OS, and Dev Projects
 
-💡 Exploring modern tech stacks like Web3, Next.js, TypeScript, MongoDB, and building real-life platforms
+💡 Exploring modern tech stacks like Web3, MongoDB, and building real-life platforms
 
 🚀 Active participant in Hackathons and Open Source
 
