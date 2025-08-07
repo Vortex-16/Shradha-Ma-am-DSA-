@@ -40,7 +40,7 @@ Edit
 ├── Lecture6
 ├── Lecture7
 ├── Lecture8
-├── 09_Graphs
+├── 09_Vector
 ├── 10_DynamicProgramming
 └── README.md
 📚 Resources Used
