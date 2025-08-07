@@ -38,8 +38,8 @@ Edit
 ├── Lecture4
 ├── Lecture5
 ├── Lecture6
-├── 07_Trees
-├── 08_Heaps
+├── Lecture7
+├── Lecture8
 ├── 09_Graphs
 ├── 10_DynamicProgramming
 └── README.md
