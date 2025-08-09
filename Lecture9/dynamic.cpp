@@ -2,5 +2,5 @@
 #include <vector>
 
 int main(){
-    
+    //Static vs dynamic
 }
