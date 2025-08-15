@@ -2,6 +2,34 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Char",
+      "request": "launch",
+      "mainClass": "Pattern.Char",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "series",
+      "request": "launch",
+      "mainClass": "Pattern.series",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "revpatter",
+      "request": "launch",
+      "mainClass": "Pattern.revpatter",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "simple",
+      "request": "launch",
+      "mainClass": "Pattern.simple",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
