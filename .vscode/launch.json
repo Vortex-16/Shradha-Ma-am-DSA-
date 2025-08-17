@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "diamond",
+      "request": "launch",
+      "mainClass": "PatternAdvance.diamond",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "hollowrhombus",
+      "request": "launch",
+      "mainClass": "PatternAdvance.hollowrhombus",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "rhombus",
+      "request": "launch",
+      "mainClass": "PatternAdvance.rhombus",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "butterFly",
       "request": "launch",
       "mainClass": "PatternAdvance.butterFly",
