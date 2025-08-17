@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "butterFly",
+      "request": "launch",
+      "mainClass": "PatternAdvance.butterFly",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "triO",
+      "request": "launch",
+      "mainClass": "PatternAdvance.triO",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "flyods",
+      "request": "launch",
+      "mainClass": "PatternAdvance.flyods",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "invHalf",
+      "request": "launch",
+      "mainClass": "PatternAdvance.invHalf",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "invRot",
+      "request": "launch",
+      "mainClass": "PatternAdvance.invRot",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "holow",
+      "request": "launch",
+      "mainClass": "PatternAdvance.holow",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "Char",
       "request": "launch",
       "mainClass": "Pattern.Char",
