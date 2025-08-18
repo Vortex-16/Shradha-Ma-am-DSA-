@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "binary",
+      "request": "launch",
+      "mainClass": "Array.binary",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "largest",
+      "request": "launch",
+      "mainClass": "Array.largest",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "Array.linearSearch",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "arrayCC",
+      "request": "launch",
+      "mainClass": "Array.arrayCC",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "diamond",
       "request": "launch",
       "mainClass": "PatternAdvance.diamond",

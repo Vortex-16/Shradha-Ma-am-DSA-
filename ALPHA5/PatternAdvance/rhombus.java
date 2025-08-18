@@ -14,5 +14,6 @@ public class rhombus {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
