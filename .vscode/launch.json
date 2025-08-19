@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "rev",
+      "request": "launch",
+      "mainClass": "Array.rev",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "binary",
       "request": "launch",
       "mainClass": "Array.binary",
