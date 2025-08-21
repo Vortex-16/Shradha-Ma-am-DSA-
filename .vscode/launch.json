@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "maxSubArr",
+      "request": "launch",
+      "mainClass": "Array.maxSubArr",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "subArray",
+      "request": "launch",
+      "mainClass": "Array.subArray",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "pair",
+      "request": "launch",
+      "mainClass": "Array.pair",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "rev",
       "request": "launch",
       "mainClass": "Array.rev",
