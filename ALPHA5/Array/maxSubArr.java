@@ -12,6 +12,7 @@ public class maxSubArr {
             arr[i]=sc.nextInt();
         }   
         max(arr);
+            sc.close();
     }
     public static void max(int arr[]) {
          int curSum=0,maxSum=Integer.MIN_VALUE;

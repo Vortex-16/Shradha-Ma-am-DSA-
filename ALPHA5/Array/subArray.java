@@ -25,5 +25,6 @@ public class subArray {
             arr[i]=sc.nextInt();
         }
         subArr(arr);
+        sc.close();
     }
 }
