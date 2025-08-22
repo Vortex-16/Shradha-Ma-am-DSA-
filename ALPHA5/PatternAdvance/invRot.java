@@ -18,5 +18,6 @@ public class invRot {
             sp--;
             System.out.println("");
         }
+        sc.close();
     }
 }

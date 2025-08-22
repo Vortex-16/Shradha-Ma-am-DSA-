@@ -14,6 +14,7 @@ public class triO   {
             }
             System.out.println("");
         }
+        sc.close();
     } 
 }
 

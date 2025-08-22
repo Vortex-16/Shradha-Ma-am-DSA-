@@ -13,6 +13,7 @@ public class pathFinderDirection {
         String direction = sc.nextLine().toUpperCase();
         pathFinderDirection.Path(direction);
         System.out.println("Distance from origin: " + Path(direction));
+        sc.close();
     }
     public static float Path(String direct) {
         int x=0,y=0;

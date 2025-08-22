@@ -22,5 +22,6 @@ public class strings {
         System.out.println("Name: " + name);
         System.out.println("Concatenated String: " + str + " " + str2);
         System.out.println("Substring (0, 5): " + name.substring(0, 4));
+        sc.close();
     }
 }

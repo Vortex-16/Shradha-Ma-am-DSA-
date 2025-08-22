@@ -37,5 +37,6 @@ public class butterFly {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

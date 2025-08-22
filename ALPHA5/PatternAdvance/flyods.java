@@ -15,5 +15,6 @@ public class flyods {
             }
             System.out.println("");
         }
+        sc.close();
     } 
 }

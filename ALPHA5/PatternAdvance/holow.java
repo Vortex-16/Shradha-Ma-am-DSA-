@@ -19,5 +19,6 @@ public class holow {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

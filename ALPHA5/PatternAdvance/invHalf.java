@@ -11,5 +11,6 @@ public class invHalf {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }
