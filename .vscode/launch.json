@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kadane",
+      "request": "launch",
+      "mainClass": "Array.kadane",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "minSubArr",
+      "request": "launch",
+      "mainClass": "Array.minSubArr",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "maxSubArr",
       "request": "launch",
       "mainClass": "Array.maxSubArr",
