@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "buySellStock",
+      "request": "launch",
+      "mainClass": "Array.buySellStock",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "trappRainWater",
       "request": "launch",
       "mainClass": "Array.trappRainWater",
