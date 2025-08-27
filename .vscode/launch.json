@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "selessctionSort",
+      "request": "launch",
+      "mainClass": "Sorting.selessctionSort",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "Bubble",
+      "request": "launch",
+      "mainClass": "Sorting.Bubble",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "buySellStock",
       "request": "launch",
       "mainClass": "Array.buySellStock",
