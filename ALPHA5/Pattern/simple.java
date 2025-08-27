@@ -13,6 +13,7 @@ public class simple {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }
  

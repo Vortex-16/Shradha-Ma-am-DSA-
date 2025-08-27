@@ -13,5 +13,6 @@ public class series {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

@@ -15,5 +15,6 @@ public class Char {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

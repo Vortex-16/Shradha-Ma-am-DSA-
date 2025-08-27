@@ -13,5 +13,6 @@ public class revpatter {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }
