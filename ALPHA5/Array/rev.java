@@ -1,7 +1,7 @@
 package Array;
 import java.util.*;
 public class rev {
-    public static void rev(int aum[]){
+    public static void revE(int aum[]){
         int f=0,l=aum.length-1;
         while (f<l) {
             int temp=aum[l];
@@ -20,7 +20,7 @@ public class rev {
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
-        rev(arr);
+        revE(arr);
         System.out.println("The Reversed Array is: ");
         for(int i=0;i<n;i++){
             System.out.print(arr[i]+ " ");
