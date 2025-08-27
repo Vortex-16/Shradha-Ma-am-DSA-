@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "inBuilt2",
+      "request": "launch",
+      "mainClass": "Sorting.inBuilt2",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "inbuilt",
+      "request": "launch",
+      "mainClass": "Sorting.inbuilt",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "insertion",
+      "request": "launch",
+      "mainClass": "Sorting.insertion",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "selessctionSort",
       "request": "launch",
       "mainClass": "Sorting.selessctionSort",
