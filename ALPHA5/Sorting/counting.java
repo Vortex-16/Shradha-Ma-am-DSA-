@@ -13,7 +13,7 @@ public class counting {
         }
         //sorting
         int j=0;
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < count.length; i++) {
             while(count[i]>0){
                 arr[j]=i;
                 j++;
@@ -34,10 +34,8 @@ public class counting {
         }
         countig(arr);
         for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i]);
+            System.out.print(arr[i]+" ");
         }
         sc.close();
     }
 }
-// //
-// SOme iisue cheek back home !!!!
