@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "spiralMatrix",
+      "request": "launch",
+      "mainClass": "TwoDArray.spiralMatrix",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "matrix",
+      "request": "launch",
+      "mainClass": "TwoDArray.matrix",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "counting",
       "request": "launch",
       "mainClass": "Sorting.counting",
