@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "counting",
+      "request": "launch",
+      "mainClass": "Sorting.counting",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "inBuilt2",
       "request": "launch",
       "mainClass": "Sorting.inBuilt2",
