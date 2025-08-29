@@ -13,6 +13,8 @@ public class even {
         System.out.println(num);
         num = clearIthBit(num, 2);
         System.out.println(num);
+        num = updateIthBit(num, 1, 0);
+        System.out.println(num);
     }
     public static void getIthBit(int n, int i){
         int bitMMask = 1 << i;
@@ -25,6 +27,11 @@ public class even {
     public static int clearIthBit(int n, int i){
         int bitMMask = ~(1 << i);
         return n & bitMMask;
+    }
+    public static int updateIthBit(int n, int i, int newBit){
+        int bitMMask = ~(1 << i);
+        n = n & bitMMask;
+        return n | (newBit << i);
     }
 
 }
