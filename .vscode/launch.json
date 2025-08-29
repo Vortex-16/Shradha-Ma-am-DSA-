@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "smallLargMatrix",
+      "request": "launch",
+      "mainClass": "TwoDArray.smallLargMatrix",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "spiralMatrix",
       "request": "launch",
       "mainClass": "TwoDArray.spiralMatrix",
