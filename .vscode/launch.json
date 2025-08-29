@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BitManioulation",
+      "request": "launch",
+      "mainClass": "BitManipulation.BitManioulation",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "toUpper",
       "request": "launch",
       "mainClass": "String.toUpper",
