@@ -7,3 +7,9 @@ public class stringBuilder {
         System.out.println(sb.toString());
     }
 }
+/*
+ * StringBuilder Example
+ * String pool
+ * Mutable vs Immutable
+ * StringBuffer
+ */
