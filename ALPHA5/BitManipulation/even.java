@@ -8,5 +8,23 @@ public class even {
         } else {
             System.out.println(num + " is odd");
         }
+        getIthBit(num, 2);
+        num = setIthBit(num, 1);
+        System.out.println(num);
+        num = clearIthBit(num, 2);
+        System.out.println(num);
     }
+    public static void getIthBit(int n, int i){
+        int bitMMask = 1 << i;
+        System.out.println((n & bitMMask) == 0 ? "0" : "1");
+    }
+    public static int setIthBit(int n, int i){
+        int bitMMask = 1 << i;
+        return n | bitMMask;
+    }
+    public static int clearIthBit(int n, int i){
+        int bitMMask = ~(1 << i);
+        return n & bitMMask;
+    }
+
 }
