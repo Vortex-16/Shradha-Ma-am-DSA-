@@ -33,5 +33,6 @@ public class matrix {
         System.out.println("Enter the element to search:");
         int target = sc.nextInt();
         search(matrix, target);
+        sc.close();
     }
 }
