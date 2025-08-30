@@ -33,5 +33,6 @@ public class even {
         n = n & bitMMask;
         return n | (newBit << i);
     }
+    
 
 }
