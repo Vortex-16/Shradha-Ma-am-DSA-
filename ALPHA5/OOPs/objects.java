@@ -28,3 +28,6 @@ class Student{
         percentage=(phy+chem+math)/3;
     }
 }
+
+/*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   '
+*/
