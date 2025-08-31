@@ -44,7 +44,7 @@ class Pen {
 }
 
 class BankAccount {
-    private String username;
+    String username;
     private String password;
     private int accountNo;
     private float balance;
@@ -93,42 +93,4 @@ class Student {
 }
 
 /*
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
-print('Hello, World!')
  */
