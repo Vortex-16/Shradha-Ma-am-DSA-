@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "objects",
+      "request": "launch",
+      "mainClass": "OOPs.objects",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "even",
       "request": "launch",
       "mainClass": "BitManipulation.even",
