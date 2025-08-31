@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
+      "name": "MainClass",
+      "request": "launch",
+      "mainClass": "OOPs.MainClass",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "Student",
       "request": "launch",
       "mainClass": "OOPs.Student",

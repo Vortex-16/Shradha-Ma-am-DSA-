@@ -8,7 +8,15 @@ time.sleep(5)
 
 # Some random Python code snippets to "type"
 snippets = [
-    "print('Hello, World!')",
+    "System.out.println('Hello, World!');",
+    "for(int i=0; i<10; i++) {",
+    "    System.out.println(i);",
+    "}",
+    "if(x > 0) {",
+    "    System.out.println('Positive');",
+    "} else {",
+    "    System.out.println('Non-positive');",
+    "}",
 ]
 
 # Bot will type 10 random snippets
