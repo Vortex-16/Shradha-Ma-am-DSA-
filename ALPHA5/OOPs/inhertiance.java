@@ -11,6 +11,8 @@ public class inhertiance {
         c1.meow();
         c1.Breed = "Persian";
         System.out.println(c1.Breed);
+        Calaulator calc = new Calaulator();
+        System.out.println("Addition: " + calc.add(5, 10));
     }
 }
 
@@ -44,7 +46,19 @@ class Cat extends Animal {
         System.out.println("Meowing...");
     }
 }
+class Calaulator{
+    int add(int a, int b){
+        return a+b;
+    }
+    int multiply(int a, int b){
+        return a*b;
+    }
+}
+
+
 //Single level inheritance-> base to derived class
 //Multilevel inheritance-> base -> derived -> sub derived
 //Hierarchical inheritance-> one base class and multiple derived classes
 //Hybrid inheritance-> combination of two or more types of inheritance 
+//Overriding-> same method name and same parameters in base and derived class
+//super keyword-> to call the base class constructor and methods
