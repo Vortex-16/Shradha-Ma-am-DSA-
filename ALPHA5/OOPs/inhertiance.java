@@ -33,7 +33,11 @@ class Dog extends Animal {
         System.out.println("Guarding...");
     }
 }
-
+class Bird extends Animal {
+    void fly() {
+        System.out.println("Flying...");
+    }
+}
 class Cat extends Animal {
     String Breed;
     void meow() {
@@ -42,3 +46,5 @@ class Cat extends Animal {
 }
 //Single level inheritance-> base to derived class
 //Multilevel inheritance-> base -> derived -> sub derived
+//Hierarchical inheritance-> one base class and multiple derived classes
+//Hybrid inheritance-> combination of two or more types of inheritance 
