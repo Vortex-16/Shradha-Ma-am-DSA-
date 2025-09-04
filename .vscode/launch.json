@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "inhertiance",
+      "request": "launch",
+      "mainClass": "OOPs.inhertiance",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "hello",
       "request": "launch",
       "mainClass": "hello",
