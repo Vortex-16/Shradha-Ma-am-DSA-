@@ -12,6 +12,8 @@ public class Q1 {
         int fnm1 = factorial(n - 1);
         int fn = n * factorial(n-1);
         // or fn = n * fnm1;
+        //TC = O(n)
+        //SC = O(n)  (auxiliary space)
         return fn;
     }
 }
