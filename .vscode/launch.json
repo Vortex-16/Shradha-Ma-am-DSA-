@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Q1",
+      "request": "launch",
+      "mainClass": "Recursion.Q1",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "abstrac",
       "request": "launch",
       "mainClass": "OOPs.abstrac",
