@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "xpown",
+      "request": "launch",
+      "mainClass": "Recursion.xpown",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "pow",
       "request": "launch",
       "mainClass": "Recursion.pow",
