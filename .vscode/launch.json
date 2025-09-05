@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sortedTest",
+      "request": "launch",
+      "mainClass": "Recursion.sortedTest",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "fibbo",
       "request": "launch",
       "mainClass": "Recursion.fibbo",
