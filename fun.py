@@ -46,7 +46,7 @@ def generate_class():
 for _ in range(45):  # number of classes to type
     lines = generate_class()
     for line in lines:
-        pyautogui.write(line, interval=0.75)  # typing effect
+        pyautogui.write(line, interval=0.45)  # typing effect
         pyautogui.press("enter")
     pyautogui.press("enter")  # extra line between classes
     time.sleep(1)
