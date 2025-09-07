@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "quic",
+      "request": "launch",
+      "mainClass": "DivideConquer.quic",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "mergeSort",
       "request": "launch",
       "mainClass": "DivideConquer.mergeSort",
