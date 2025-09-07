@@ -6,7 +6,6 @@ public class mergeSort {
         int arr[] = {6, 3, 9, 5, 2, 8};
         mergeSot(arr, 0, arr.length - 1);
         printArr(arr);
-
     }
     //print array
     static void printArr(int arr[]) {
