@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "DivideConquer.mergeSort",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "binaryString",
       "request": "launch",
       "mainClass": "Recursion.binaryString",

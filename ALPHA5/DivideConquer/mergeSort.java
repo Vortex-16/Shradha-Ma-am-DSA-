@@ -6,7 +6,7 @@ public class mergeSort {
         int arr[] = {6, 3, 9, 5, 2, 8};
         mergeSort(arr, 0, arr.length - 1);
         printArr(arr);
-        
+
     }
     //print array
     static void printArr(int arr[]) {
@@ -45,15 +45,11 @@ public class mergeSort {
         }
         //left part
         while (i <= mid) {
-            temp[k] = arr[i];
-            i++;
-            k++;
+            temp[k++] = arr[i++];
         }
         //right part
         while (j <= ei) {
-            temp[k] = arr[j];
-            j++;
-            k++;
+            temp[k++] = arr[j++];
         }
         //copy temp to original array
         for (k = 0, i = si; k < temp.length; k++, i++) {
