@@ -4,7 +4,7 @@ public class mergeSort {
     public static void main(String[] args) {
         System.out.println("Hello from mergeSort");
         int arr[] = {6, 3, 9, 5, 2, 8};
-        mergeSort(arr, 0, arr.length - 1);
+        mergeSot(arr, 0, arr.length - 1);
         printArr(arr);
 
     }
@@ -16,14 +16,14 @@ public class mergeSort {
         System.out.println();
     }
     //merge sort
-    static void mergeSort(int arr[], int si, int ei) {
+    static void mergeSot(int arr[], int si, int ei) {
         //base case
         if (si >= ei) {
             return;
         }
         int mid = si + (ei - si) / 2;
-        mergeSort(arr, si, mid);
-        mergeSort(arr, mid + 1, ei);
+        mergeSot(arr, si, mid);
+        mergeSot(arr, mid + 1, ei);
         merge(arr, si, mid, ei);
     }
     //merge
