@@ -9,11 +9,11 @@ public class tilling {
         if (n == 0 || n == 1) {
             return 1;
         }
-        //vertical choice
-        int fnm1 = tillingWays(n - 1);
-        //horizontal choice 
-        int fnm2 = tillingWays(n - 2);
-        int totalWays = fnm1 + fnm2;
+        // //vertical choice
+        // int fnm1 = tillingWays(n - 1);
+        // //horizontal choice 
+        // int fnm2 = tillingWays(n - 2);
+        int totalWays = tillingWays(n - 1) + tillingWays(n - 2);
         //or return tillingWays(n-1) + tillingWays(n-2);
         //TC = O(2^n)
         //SC = O(n) (auxiliary space)

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "freundsParing",
+      "request": "launch",
+      "mainClass": "Recursion.freundsParing",
+      "projectName": "Shradha Ma'am(DSA)_c150e949"
+    },
+    {
+      "type": "java",
       "name": "duplicate",
       "request": "launch",
       "mainClass": "Recursion.duplicate",
