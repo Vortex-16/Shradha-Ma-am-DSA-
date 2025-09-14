@@ -5,3 +5,4 @@ performance >>
 Efficient>>
 
 Time Complexity
+Linear Search Me -> Worst Case -> me N time Hoga(Toh ServerDown Ho JAyaega)
