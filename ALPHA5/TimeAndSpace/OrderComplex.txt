@@ -22,3 +22,19 @@ y -> time Complexity
 y=ax+b
 Experminental Analysis: test kro for diff n and then graph plot kro
 Theoritical Analysis: 
+
+
+|
+|
+|
+|
+|
+|------------------ time Complexity O(1)
+|
+|
+|
+|
+|_________________
+
+
+Big O Notation
