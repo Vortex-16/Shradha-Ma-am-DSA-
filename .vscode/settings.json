@@ -63,5 +63,11 @@
   "editor.inlineSuggest.edits.renderSideBySide": "never",
   "github.copilot.nextEditSuggestions.enabled": false,
   "github.copilot.nextEditSuggestions.fixes": false,
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "editor.fontSize": 16,
+  "files.autoSave": "onWindowChange",
+  "editor.autoIndentOnPaste": true,
+  "editor.codeActionsOnSave": {
+    
+  }
 }

@@ -37,4 +37,16 @@ Theoritical Analysis:
 |_________________
 
 
-Big O Notation
+Big O Notation  
+
+o(1)
+O(n)
+O(log n)
+O(n log n)
+O(n2)>>O(2n)  -> Worst Ever
+
+time = an2 + bn + c;
+
+Step 1: Ignore Constants;
+Step 2: Largest Term (n2 + n+ 1)
+Step 3: O(n2)
