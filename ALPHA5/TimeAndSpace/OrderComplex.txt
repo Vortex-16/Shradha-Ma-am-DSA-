@@ -50,3 +50,15 @@ time = an2 + bn + c;
 Step 1: Ignore Constants;
 Step 2: Largest Term (n2 + n+ 1)
 Step 3: O(n2)
+
+
+time = an3 + blogn +c
+
+Step 1: n3+logn
+Step 2: n3
+Step 3: O(n3)
+
+    Eq:         |f(n)|
+                ------  < ♾️
+    lim -> ♾️    g(n)
+
