@@ -1,0 +1,9 @@
+Memory: 
+Heap Stack
+Stack -> Function Call
+Heap -> Objects
+
+Input space + Auxiliary Space(Temp)
+Ex: Merge Sort -> Temp Array {n} -> O(n)
+{Space}(Device Storage) << {Time}
+
