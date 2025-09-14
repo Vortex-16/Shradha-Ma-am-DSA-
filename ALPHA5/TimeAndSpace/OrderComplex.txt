@@ -6,3 +6,4 @@ Efficient>>
 
 Time Complexity
 Linear Search Me -> Worst Case -> me N time Hoga(Toh ServerDown Ho JAyaega)
+Sorted Array-> Larget arr[n-1] -> 1 operation me hogya
