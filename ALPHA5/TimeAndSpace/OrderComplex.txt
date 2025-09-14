@@ -62,3 +62,26 @@ Step 3: O(n3)
                 ------  < ♾️
     lim -> ♾️    g(n)
 
+
+Big Omega Notation
+_o_   : Best CAse
+
+_________________ Uper BOund
+| | |  | |  | |  |
+
+_|_|__|____|___|_ Lower BOund    
+
+
+Big Theta Notation
+Avg:
+
+Small O
+Small Omega
+Small Theta
+
+
+Common Complexity:
+O(2n)>>O(n2)>>O(n)>>O(log n)>>O(1)
+Expon>> Pow >>Lin>> Efficient >> Constant
+
+Recursion -> memorization -> Dyanamic Programing
