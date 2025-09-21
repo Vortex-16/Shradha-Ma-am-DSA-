@@ -8,7 +8,7 @@ public class array {
         }
         System.out.println();        
     }
-    public static void arra(int arr[], int i , int val){
+    public static void changeArray(int arr[], int i , int val){
         //Base Case
         if(i == arr.length){
             printArray(arr);
@@ -16,12 +16,12 @@ public class array {
         }
         //Recursion
         arr[i] = val;
-        arra(arr, i+1, val+1);
+        changeArray(arr, i+1, val+1);
         arr[i] = arr[i] - 2; //Backtracking step
     }
     public static void main(String[] args) {
         int arr[] = new int[5];
-        arra(arr,0,1);
+        changeArray(arr,0,1);
         printArray(arr);
     }
 }
