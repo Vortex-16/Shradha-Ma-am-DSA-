@@ -25,3 +25,9 @@ public class array {
         printArray(arr);
     }
 }
+
+
+//nqueens
+//Sudoku
+//Grid Ways
+// {Krna h}
