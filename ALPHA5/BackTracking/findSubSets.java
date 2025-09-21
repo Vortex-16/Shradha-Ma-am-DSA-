@@ -7,7 +7,7 @@ public class findSubSets {
             System.out.println(curr);
             return;
         }
-        //Recursion
+        //Recursion 
         //Yes choice
         findSubsets(str, i+1, curr+str.charAt(i));
         //No choice
