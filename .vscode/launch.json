@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "findSubSets",
+      "request": "launch",
+      "mainClass": "BackTracking.findSubSets",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "array",
       "request": "launch",
       "mainClass": "BackTracking.array",

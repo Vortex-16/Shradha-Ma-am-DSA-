@@ -4,7 +4,13 @@ public class findSubSets {
     public static void findSubsets(String str, int i, String curr){
         //Base Case
         if(i == str.length()){
-            System.out.println(curr);
+            if(curr.length() == 0){
+                System.out.println("null");
+                return;
+            }
+            else{
+                System.out.println(curr);
+            }
             return;
         }
         //Recursion 
@@ -14,7 +20,7 @@ public class findSubSets {
         findSubsets(str, i+1, curr);
     }
     public static void main(String[] args) {
-        String str = "abc";
+        String str = "Archis";
         findSubsets(str, 0, "");
     }
 }
