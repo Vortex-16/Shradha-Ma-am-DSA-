@@ -14,9 +14,4 @@ public class permutation {
            bc -> bca
  c-> ab -> ca -> cab
            cb -> cba
-
- 1 th index
- a b-> c
- c b-> a
- a c-> b
  */
