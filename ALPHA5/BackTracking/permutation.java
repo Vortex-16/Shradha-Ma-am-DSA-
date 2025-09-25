@@ -2,7 +2,7 @@ package BackTracking;
 
 public class permutation {
     public static void main(String[] args) {
-        
+        permute("abc", 0, 2);
     }
     public static void permute(String str, int l, int r){
         if(l == r){
