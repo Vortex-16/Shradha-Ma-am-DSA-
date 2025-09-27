@@ -16,7 +16,6 @@ public class permutation {
             permute(str, l+1, r);
         }
     }
-    
 }
 
 // Example :
