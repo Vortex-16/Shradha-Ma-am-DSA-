@@ -11,9 +11,9 @@ public class nQueens{
                 board[i][j] = '.';
             }
         }
-        nQueens(board, 0);
+        nQueen(board, 0);
     }
-    public static void nQueens(char board[][], int row){
+    public static void nQueen(char board[][], int row){
         //Base Case
         if(row == board.length){
             printBoard(board);
@@ -23,7 +23,7 @@ public class nQueens{
         for(int j = 0; j < board.length; j++){
             if(isSafe(board, row, j)){
                 board[row][j] = 'Q';
-                nQueens(board, row+1);
+                nQueen(board, row+1);
                 board[row][j] = '.';
             }
         }
