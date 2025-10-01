@@ -29,3 +29,5 @@ public class permutation {
  c-> ab -> ca -> cab
            cb -> cba
  */
+// Time Complexity : O(n*n!)
+// Space Complexity : O(1)
