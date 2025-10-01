@@ -2,22 +2,22 @@ package Recursion;
 
 public class fibbo {
     public static void main(String[] args) {
-        System.out.println(fibbo(25));
+        System.out.println(fibb(25));
         // for (int i = 0; i < 10; i++) {
         //     System.out.print(fibboSeries(i) + " ");
         // }
     }
-    static int fibbo(int n) {
+    static int fibb(int n) {
         if (n == 0) {
             return 0;
         }
         if (n == 1) {
             return 1;
         }
-        int fnm1 = fibbo(n - 1);    
-        int fnm2 = fibbo(n - 2);
+        int fnm1 = fibb(n - 1);    
+        int fnm2 = fibb(n - 2);
         int fn = fnm1 + fnm2;
-        // or fn = fibbo(n-1) + fibbo(n-2);
+        // or fn = fibb(n-1) + fibb(n-2);
         //TC = O(2^n)
         //SC = O(n)  (auxiliary space)
         return fn;
