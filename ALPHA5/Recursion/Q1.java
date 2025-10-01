@@ -9,7 +9,7 @@ public class Q1 {
         if (n == 0) {
             return 1;
         }
-        int fnm1 = factorial(n - 1);
+        // int fnm1 = factorial(n - 1);
         int fn = n * factorial(n-1);
         // or fn = n * fnm1;
         //TC = O(n)
