@@ -24,3 +24,19 @@ public class findSubSets {
         findSubsets(str, 0, "");
     }
 }
+
+// Example :
+/*
+ str = "abc"
+ i = 0
+ curr = ""
+
+ Yes choice -> a -> ab -> abc
+                     ac
+             a
+ No choice -> b -> bc
+                     c
+             b
+         c
+         ""
+ */ 
