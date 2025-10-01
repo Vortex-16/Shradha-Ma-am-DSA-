@@ -29,4 +29,3 @@ public class permutation {
  c-> ab -> ca -> cab
            cb -> cba
  */
-
