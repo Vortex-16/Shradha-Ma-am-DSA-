@@ -87,8 +87,8 @@ class BankAccount {
 }
 
 class Student {
-    private String name;
-    private int age;
+    // private String name;
+    // private int age;
     private float percentage;
 
     void calcPercentage(int phy, int chem, int math) {
