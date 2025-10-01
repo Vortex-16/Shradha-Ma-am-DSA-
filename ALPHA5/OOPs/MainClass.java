@@ -41,3 +41,5 @@ public class MainClass {   // better than using 'const'
         s3.printInfo();  // should print the same as s1
     }
 }
+// Time Complexity : O(1)
+// Space Complexity : O(1)
