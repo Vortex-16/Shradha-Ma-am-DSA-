@@ -6,6 +6,9 @@ public class gridWays {
         if(i == n-1 && j == m-1){
             return 1;
         }
+        else if(i == n || j == m){
+            return 0;
+        }
         if(i >= n || j >= m){
             return 0;
         }
@@ -35,5 +38,12 @@ Explanation: From the top-left corner (0, 0) to the bottom-right corner (
 4. Down -> Right -> Right -> Down
 5. Down -> Right -> Down -> Right
 6. Down -> Down -> Right -> Right
-
 */
+//Time Complexity: O(2^(n+m))
+//Space Complexity: O(n+m) (recursion stack space)
+
+
+//Leetcode: https://leetcode.com/problems/unique-paths/
+//GFG: https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1
+//Striver SDE Sheet: https://takeuforward.org/data-structure/number-of-unique-paths-dp-5/
+//CodeStudio: https://www.codingninjas.com/codestudio/problems/number-of-unique-paths_1081470
