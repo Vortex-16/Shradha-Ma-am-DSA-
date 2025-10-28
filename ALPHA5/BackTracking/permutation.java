@@ -18,8 +18,8 @@ public class permutation {
     }
 }
 
-// Example :
 /*
+Example :
  abc
  0 th index
  a-> bc -> ab -> abc
