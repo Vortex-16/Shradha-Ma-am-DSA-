@@ -54,6 +54,14 @@ public class sudoku {
 
         return false;
     }
+    public static void printSudoku(int sudok[][]){
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
+                System.out.print(sudok[i][j]+" ");
+            }
+            System.out.println();
+        }
+    }   
     public static void main(String[] args) {
         int sudok[][]={{0,0,8,0,0,0,0,0,0,},
     {4,9,0,1,5,7,0,0,2},
@@ -64,5 +72,17 @@ public class sudoku {
     {0,3,0,0,7,2,0,0,4},
     {0,4,9,0,3,0,0,5,7},
     {8,2,7,0,0,9,0,1,3} };
+        if(sudokuSolver(sudok, 0, 0)){
+            System.out.println("Solution exists");
+            for(int i=0;i<9;i++){
+                for(int j=0;j<9;j++){
+                    System.out.print(sudok[i][j]+" ");
+                }
+                System.out.println(); 
+            }
+            printSudoku(sudok);
+        } else {
+            System.out.println("Solution does not exist");
+        }  
     }
 }
