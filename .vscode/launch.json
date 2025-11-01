@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sudoku",
+      "request": "launch",
+      "mainClass": "BackTracking.sudoku",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "findSubSets",
       "request": "launch",
       "mainClass": "BackTracking.findSubSets",
