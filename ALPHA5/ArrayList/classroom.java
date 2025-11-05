@@ -17,6 +17,7 @@ public class classroom{
         //get
         int item=list.get(2);
         System.out.println(item);
+        //remove
         list.remove(2);
         list.set(0, 99);   
         list.contains
