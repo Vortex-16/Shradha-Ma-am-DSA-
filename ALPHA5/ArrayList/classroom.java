@@ -16,6 +16,7 @@ public class classroom{
         attendence.add(false);
         System.out.println(list);
         System.out.println(students);
+        System.out.println(attendence);
     }
 }
 
