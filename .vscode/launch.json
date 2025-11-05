@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "classroom",
+      "request": "launch",
+      "mainClass": "ArrayList.classroom",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "sudoku",
       "request": "launch",
       "mainClass": "BackTracking.sudoku",
