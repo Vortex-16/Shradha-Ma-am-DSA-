@@ -14,6 +14,12 @@ public class classroom{
         students.add("Ma'am");
         attendence.add(true);
         attendence.add(false);
+        int item=list.get(2);
+        System.out.println(item);
+        list.remove(2);
+        list.set(0, 99);   
+        list.contains
+        (3);
         System.out.println(list);
         System.out.println(students);
         System.out.println(attendence);
