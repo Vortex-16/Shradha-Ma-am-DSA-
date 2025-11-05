@@ -14,6 +14,7 @@ public class classroom{
         students.add("Ma'am");
         attendence.add(true);
         attendence.add(false);
+        //get
         int item=list.get(2);
         System.out.println(item);
         list.remove(2);
