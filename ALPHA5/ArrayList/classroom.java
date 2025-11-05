@@ -21,8 +21,8 @@ public class classroom{
         list.remove(2);
         //set
         list.set(0, 99);   
-        list.contains
-        (3);
+        //contanis
+        list.contains(3);
         System.out.println(list);
         System.out.println(students);
         System.out.println(attendence);
