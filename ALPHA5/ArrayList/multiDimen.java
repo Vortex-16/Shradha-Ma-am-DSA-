@@ -1,20 +1,20 @@
 package ArrayList;
-
+import java.util.ArrayList;
 public class multiDimen {
     public static void main(String[] args) {
-        java.util.ArrayList<java.util.ArrayList<Integer>> mainList = new java.util.ArrayList<>();
+        ArrayList<ArrayList<Integer>> mainList = new ArrayList<>();
 
-        java.util.ArrayList<Integer> list1 = new java.util.ArrayList<>();
+        ArrayList<Integer> list1 = new ArrayList<>();
         list1.add(1);
         list1.add(2);
         list1.add(3);
 
-        java.util.ArrayList<Integer> list2 = new java.util.ArrayList<>();
+        ArrayList<Integer> list2 = new ArrayList<>();
         list2.add(4);
         list2.add(5);
         list2.add(6);
 
-        java.util.ArrayList<Integer> list3 = new java.util.ArrayList<>();
+        ArrayList<Integer> list3 = new ArrayList<>();
         list3.add(7);
         list3.add(8);
         list3.add(9);
@@ -28,5 +28,5 @@ public class multiDimen {
             System.out.println("Row " + i + ": " + mainList.get(i));
         }
     } 
-    
+
 }
