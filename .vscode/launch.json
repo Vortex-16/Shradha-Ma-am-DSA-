@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "swap2",
+      "request": "launch",
+      "mainClass": "ArrayList.swap2",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "reverse",
       "request": "launch",
       "mainClass": "ArrayList.reverse",
