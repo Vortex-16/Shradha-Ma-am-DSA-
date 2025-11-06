@@ -6,7 +6,7 @@ public class classroom{
         ArrayList<Integer> list = new ArrayList<>();
         ArrayList<String> students = new ArrayList<>();
         ArrayList<Boolean> attendence = new ArrayList<>();
-
+        //add
         list.add(1);
         list.add(2);
         list.add(3);    
