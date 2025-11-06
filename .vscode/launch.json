@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pairSum1",
+      "request": "launch",
+      "mainClass": "ArrayList.pairSum1",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "multiDimen",
       "request": "launch",
       "mainClass": "ArrayList.multiDimen",
