@@ -23,6 +23,10 @@ public class classroom{
         list.set(0, 99);   
         //contanis
         list.contains(3);
+        System.out.println(list.size());
+        for(int i=0;i<students.size();i++){
+            System.out.println(students.get(i));
+        } 
         System.out.println(list);
         System.out.println(students);
         System.out.println(attendence);
