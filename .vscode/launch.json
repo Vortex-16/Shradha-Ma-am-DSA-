@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "multiDimen",
+      "request": "launch",
+      "mainClass": "ArrayList.multiDimen",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "sorting",
       "request": "launch",
       "mainClass": "ArrayList.sorting",
