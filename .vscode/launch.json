@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sorting",
+      "request": "launch",
+      "mainClass": "ArrayList.sorting",
+      "projectName": "Shradha-Ma-am-DSA-_8a64ae51"
+    },
+    {
+      "type": "java",
       "name": "swap2",
       "request": "launch",
       "mainClass": "ArrayList.swap2",
