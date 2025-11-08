@@ -27,3 +27,5 @@ public class pairSum1 {
         System.out.println(hasPairWithSum(list, target)); // Output: true
     }
 }
+
+
